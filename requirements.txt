@@ -1,4 +1,4 @@
 pytest==7.4.3
-pytest-asyncio==0.23.2
+pytest-asyncio @ git+https://github.com/seifertm/pytest-asyncio/@9d4ad5401f1d98727929b9d20e0f980ac49e6f56
 motor==3.3.2
 Mongo-Thingy==0.17.1
